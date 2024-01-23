@@ -11,3 +11,4 @@ print (sentence)
 count_words = sentence.count ("Peter")
 
 # print how many time the word is repeated
+print ("The name Peter is repeated", count_words)
