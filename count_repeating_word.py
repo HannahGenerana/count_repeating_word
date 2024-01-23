@@ -8,5 +8,6 @@ sentence = "Peter Piper picked a peck of pickled peppers, A peck of pickled pepp
 print (sentence)
 
 # use the count method of a str class
+count_words = sentence.count ("Peter")
 
 # print how many time the word is repeated
