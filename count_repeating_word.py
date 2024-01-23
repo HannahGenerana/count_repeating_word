@@ -4,6 +4,8 @@
 # pseudocode
 
 # write a sentence
+sentence = "Peter Piper picked a peck of pickled peppers, A peck of pickled peppers Peter Piper picked; If Peter Piper picked a peck of pickled peppers, Where's the peck of pickled peppers Peter Piper picked?"
+print (sentence)
 
 # use the count method of a str class
 
